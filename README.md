@@ -1,24 +1,13 @@
 # portifolio_kat
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+### Para rodar
 ```
 npm run serve
 ```
+### O que foi feito
+#### Foi feito um sidebar, com opcoes de home, sobre e contato, com router
+#### Uma galeria com as fotos existentes
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### O que falta
+#### Falta a opcao de projetos no sidebar, separar cada projeto e seus detalhes
+#### A galeria falta fazer o fundo transparente e a opcao de passar para a foto seguinte
+#### As informacoes no sobre, e reorganizar a view do contato
